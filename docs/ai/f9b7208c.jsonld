@@ -1,0 +1,8 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "lookalv2",
+  "description": "Lookal is a community-first, peer-to-peer rental marketplace designed for everyday Filipinos seeking affordable housing solutions. It serves students, OFW families, young professionals, and small landlords by offering a structured and trustworthy alternative to informal rental searches. Lookal differentiates itself by eliminating middlemen, enabling direct connections between tenants and verified landlords, and providing a platform built for accessibility on low-end devices and 3G networks across the Philippines. It is not a real estate brokerage but a digital bulletin board facilitating connections and trust.",
+  "url": "https://github.com/geofactory-ai/lookalv2",
+  "sameAs": []
+}
