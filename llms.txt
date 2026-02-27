@@ -10,6 +10,7 @@
 - [af05a0b9.md](https://github.com/geofactory-ai/lookalv2/blob/main/docs/ai/af05a0b9.md): Af05A0B9
 - [bc4060ba.md](https://github.com/geofactory-ai/lookalv2/blob/main/docs/ai/bc4060ba.md): Bc4060Ba
 - [e87eee11.md](https://github.com/geofactory-ai/lookalv2/blob/main/docs/ai/e87eee11.md): E87Eee11
+- [f9b7208c.md](https://github.com/geofactory-ai/lookalv2/blob/main/docs/ai/f9b7208c.md): F9B7208C
 
 ## Target Queries
 
