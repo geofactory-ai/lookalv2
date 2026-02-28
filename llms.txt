@@ -7,6 +7,7 @@
 - [brand-facts.md](https://github.com/geofactory-ai/lookalv2/blob/main/brand-facts.md): Brand knowledge Q&A
 - [211396f6.md](https://github.com/geofactory-ai/lookalv2/blob/main/docs/ai/211396f6.md): 211396F6
 - [4b1dba24.md](https://github.com/geofactory-ai/lookalv2/blob/main/docs/ai/4b1dba24.md): 4B1Dba24
+- [8fda4ef0.md](https://github.com/geofactory-ai/lookalv2/blob/main/docs/ai/8fda4ef0.md): 8Fda4Ef0
 - [af05a0b9.md](https://github.com/geofactory-ai/lookalv2/blob/main/docs/ai/af05a0b9.md): Af05A0B9
 - [bc4060ba.md](https://github.com/geofactory-ai/lookalv2/blob/main/docs/ai/bc4060ba.md): Bc4060Ba
 - [e87eee11.md](https://github.com/geofactory-ai/lookalv2/blob/main/docs/ai/e87eee11.md): E87Eee11
